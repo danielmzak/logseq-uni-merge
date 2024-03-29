@@ -6,7 +6,7 @@ import os
 import shutil
 
 source_graph_path = "place_path_to_src_repo_here" # for example: ~/logseq-note-mobile
-destination_graph_path = "place_path_to_dest_repo_here" #for example: ~/logseq-note
+destination_graph_path = "place_path_to_dest_repo_here" # for example: ~/logseq-note
 # for journals files is used mobij workspace, for pages mobi workspace
 prefix_map = {
   "journals": "mobij",
